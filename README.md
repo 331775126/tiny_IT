@@ -1,4 +1,4 @@
-tiny_IT
-=======
-
-am just a programmer who fell in love with programming, i'd like to learn from everyone ,especially who has the same taste as me
+try:
+  print('hello world')
+except Mind.Crazy as e:
+  print('hello world')
